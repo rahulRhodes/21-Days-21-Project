@@ -35,3 +35,8 @@ Languages: Python
 Libraries/Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow/Keras, PyTorch, Hugging Face, OpenAI APIs, Matplotlib, Seaborn
 
 Tools: Git, GitHub, Jupyter Notebook, VS Code
+
+
+***
+Some Days are repeated more than once , actually the project/task expects output in more than 1 format like screenshot and text file or ipynb one.
+***
